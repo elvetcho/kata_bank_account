@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1" recursive="false" />
+  </library>
+</component>
