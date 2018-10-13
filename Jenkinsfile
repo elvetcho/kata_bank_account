@@ -1,12 +1,11 @@
 pipeline {
     agent any
-    
-    stages{
-        stage('build'){
+
+    stages {
+        stage('Build') {
             steps {
-                mvn clean install
+                echo 'Building..'
             }
         }
     }
-
 }
